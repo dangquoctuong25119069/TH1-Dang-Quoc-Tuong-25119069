@@ -1,0 +1,1 @@
+Ngưỡng debounce lựa chọn là 50ms. Lý do: Vì tiếp điểm cơ khí của nút nhấn thường bị nảy trong khoảng 5-20ms, mức 50ms là đủ an toàn để lọc sạch toàn bộ nhiễu tín hiệu giả, đồng thời không quá dài để làm mất đi độ nhạy khi người dùng cố tình bấm nhanh liên tiếp
